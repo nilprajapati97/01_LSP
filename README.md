@@ -189,10 +189,10 @@ Concise reference notes covering core Linux System Programming concepts.
 | 000 | [Static Lib vs Dynamic Lib](LSP_Notes/000_StaticLibVsDynamicLib.Md) | Library types, `ar`, `ld`, `dlopen` |
 | 001 | [LSP Introduction](LSP_Notes/001_LSP_Intro.md) | Overview of the LSP curriculum |
 | 002 | [LSP Basics](LSP_Notes/002_LSP.md) | System calls, POSIX, glibc |
-| 002 | [LSP Introduction (Extended)](LSP_Notes/002_LSP_Introduction.md) | Extended intro notes |
-| 003 | [Process Time](LSP_Notes/003_LSP_%20ProcessTime.md) | `clock()`, `time()`, process timing |
+| 003 | [LSP Introduction (Extended)](LSP_Notes/002_LSP_Introduction.md) | Extended intro notes |
+| 004 | [Process Time](LSP_Notes/003_LSP_%20ProcessTime.md) | `clock()`, `time()`, process timing |
 | 005 | [Random Numbers](LSP_Notes/005_LSP_Random_Number.md) | `rand()`, `srand()`, `/dev/urandom` |
-| 006 | [Process Control Block](LSP_Notes/006_LSP_Process_Controll_Block.md) | PCB structure, kernel task_struct |
+| 006 | [Process Control Block](LSP_Notes/006_LSP_Process_Controll_Block.md) | PCB structure, kernel `task_struct` |
 | 007 | [PCB Deep Dive](LSP_Notes/007_LSP_PCB.md) | Fields, context, scheduling |
 | 008 | [System Functions](LSP_Notes/008_LSP_System_Function.md) | Key POSIX system call reference |
 | 009 | [LSP Advanced](LSP_Notes/009_LSP.md) | Advanced topics |
